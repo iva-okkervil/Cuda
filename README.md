@@ -6,3 +6,5 @@ Cuda - это одностраничный сайт, созданный мной
 * flexbox,
 * фильтр работ (jQuery),
 * форма обратной связи (JavaScript, PHP, Ajax).
+
+[Онлайн-просмотр](https://iva-okkervil.github.io/Cuda/).
